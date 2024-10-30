@@ -1,3 +1,6 @@
+// Comment to show that the pull request works, there aren't any magic numbers left
+// This is what we were instructed to do.
+
 package com.jwetherell.algorithms.numbers;
 
 import java.math.BigDecimal;
